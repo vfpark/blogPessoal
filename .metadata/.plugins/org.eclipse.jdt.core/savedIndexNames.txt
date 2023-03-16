@@ -14,8 +14,8 @@ INDEX VERSION 1.131+C:\Users\vitor\OneDrive\Desktop\Projetos Java\BlogPessoal\.m
 2111474355.index
 2612067476.index
 1796374566.index
-1190600113.index
 2108912130.index
+1190600113.index
 459042506.index
 267847921.index
 3668841122.index
@@ -46,8 +46,8 @@ INDEX VERSION 1.131+C:\Users\vitor\OneDrive\Desktop\Projetos Java\BlogPessoal\.m
 1744008627.index
 2881512638.index
 2434725955.index
-2927011204.index
 889460923.index
+2927011204.index
 2655490248.index
 2664935476.index
 1380222477.index
