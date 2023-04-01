@@ -1,7 +1,7 @@
 <h1 align="center"> Blog Pessoal </h1>
 
 ### Descrição
-Durante o bloco II do bootcamp de Pessoa Desenvolvedora Java Full Stack Jr da Generation, o projeto foi desenvolvido da seguinte maneira:
+<p>Durante o bloco II do bootcamp de Pessoa Desenvolvedora Java Full Stack Jr da Generation, o projeto foi desenvolvido da seguinte maneira:</p>
 
 
 <p>CRUD com as opções de cadastar, consultar, atualizar e deletar postagem;</p>
