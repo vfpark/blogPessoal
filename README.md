@@ -1,4 +1,4 @@
-<h1 align="center"> Blog Pessoal </h1>
+<h1> Blog Pessoal </h1>
 
 ### Descrição
 <p>Durante o bloco II do bootcamp de Pessoa Desenvolvedora Java Full Stack Jr da Generation, o projeto foi desenvolvido da seguinte maneira:</p></br>
